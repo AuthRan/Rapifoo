@@ -10,3 +10,5 @@ The key insights are
   - It has tracking tool embedded in it using a open source project(but its mostly not polished yet i will be updating it further).
 
 I removed .env file for protecting my data so if you are cloning it kindly make sure you create your own .env file with requred attributes.
+
+Also this project is something i created back in 2023 with reading just react dev, mongoose, express, mongoDb and tailwind css docs
