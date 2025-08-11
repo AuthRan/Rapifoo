@@ -1,5 +1,9 @@
 # Rapifoo
 A complete Enterprise level MERN full stack app for food delivery 
+MongoDB - Storage
+Express - Backend ( with mangoose for connection )
+ReactJs - Frontend
+NodeJs - Backend (core)
 
 This project is developed during the internship at EY GDS in collaboration with AICTE
 
